@@ -30,7 +30,12 @@ Units tests for success and failure situations. Mocked responses using FakeFlick
 # Screenshots
 
 
-|List of Images View|Flickr Image Detail View|
-|---|---|
-| | |
+|List of Images View|
+
+<img width="311" alt="Screenshot 2025-02-10 at 5 46 26 PM" src="https://github.com/user-attachments/assets/da80a01f-9787-44bc-ba87-e6c46b884643" />
+
+|Flickr Image Detail View|
+
+<img width="310" alt="Screenshot 2025-02-10 at 5 46 44 PM" src="https://github.com/user-attachments/assets/22c0fb5c-e380-4764-8cac-602ab00cd7fa" />
+
 
