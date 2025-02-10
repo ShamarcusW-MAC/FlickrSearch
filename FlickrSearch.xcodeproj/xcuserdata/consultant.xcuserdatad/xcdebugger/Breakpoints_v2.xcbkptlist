@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DC150110-8AC9-4B28-8350-4A87D180942A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F05DAE82-1F14-4DD3-AB61-BD0404234E55"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrSearch/ViewModels/FlickrViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "searchImages(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BBF674D-FBDF-46A0-8723-75D05325D9E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrSearch/ViewModels/FlickrViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "searchImages(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9BBF674D-FBDF-46A0-8723-75D05325D9E0 - 365e7b93ddc67792"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for FlickrSearch.FlickrViewModel.searchImages(for: Swift.String) async -&gt; ()"
+                  moduleName = "FlickrSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Downloads/FlickrSearch/FlickrSearch/ViewModels/FlickrViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "9BBF674D-FBDF-46A0-8723-75D05325D9E0 - 24b894a9976032a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for FlickrSearch.FlickrViewModel.searchImages(for: Swift.String) async -&gt; ()"
+                  moduleName = "FlickrSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Downloads/FlickrSearch/FlickrSearch/ViewModels/FlickrViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "9BBF674D-FBDF-46A0-8723-75D05325D9E0 - bcd95d9f71ebb90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FlickrSearch.FlickrViewModel.searchImages(for: Swift.String) async -&gt; ()"
+                  moduleName = "FlickrSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Downloads/FlickrSearch/FlickrSearch/ViewModels/FlickrViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  uuid = "9BBF674D-FBDF-46A0-8723-75D05325D9E0 - 7dfbf902fa091d91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for FlickrSearch.FlickrViewModel.searchImages(for: Swift.String) async -&gt; ()"
+                  moduleName = "FlickrSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Downloads/FlickrSearch/FlickrSearch/ViewModels/FlickrViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "261">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
